@@ -1,0 +1,6 @@
+{
+  "name": "Trig Picture Puzzle",
+  "description": "Interactive mathematics jigsaw puzzle game focused on the Six Trigonometric Ratios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
